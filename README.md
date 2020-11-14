@@ -1,6 +1,8 @@
 # Test task for Cognive company
 
-## Test task description
+![Иллюстрация к проекту](https://github.com/antonsmolko/cognive-test/raw/master/public/img/example.png)
+
+## Description
 
 - Взять один ресурс из https://swapi.dev/api/.
 - Реализовать отображение списка c возможностью фильтрации и сортировки по названию,
